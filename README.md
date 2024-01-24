@@ -24,7 +24,7 @@
 ![alt text](https://github.com/sharvik22/2md/blob/main/images/2-2.png)
 ![alt text](https://github.com/sharvik22/2md/blob/main/images/2-3.png)
 
-[ссылка на конфигурационный файл haproxy] (https://github.com/sharvik22/2md/blob/main/haproxy-1.cfg)
+[ссылка на конфигурационный файл haproxy] (haproxy-2.cfg)
 
 ---
 
