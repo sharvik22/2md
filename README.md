@@ -20,7 +20,9 @@
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 ### Решение 2:
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-5.png)
 
+[ссылка на конфигурационный файл haproxy] (https://github.com/sharvik22/2md/blob/main/haproxy-1.cfg)
 
 ---
 
