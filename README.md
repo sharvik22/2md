@@ -12,7 +12,7 @@
 ![alt text](https://github.com/sharvik22/2md/blob/main/images/1-4.png)
 ![alt text](https://github.com/sharvik22/2md/blob/main/images/1-5.png)
 
-[ссылка] ()
+[ссылка] (https://github.com/sharvik22/2md/blob/main/haproxy-1.cfg)
 ---
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
