@@ -6,9 +6,11 @@
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 ### Решение 1:
-
-
-https://github.com/sharvik22/2md/blob/main/images/1-1.png
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-1.png)
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-2.png)
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-3.png)
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-4.png)
+![alt text](https://github.com/sharvik22/2md/blob/main/images/1-5.png)
 
 ---
 ### Задание 2
